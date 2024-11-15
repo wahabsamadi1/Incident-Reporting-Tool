@@ -2,7 +2,7 @@
 #include <string>
 #include <ctime>
 
-using namespace std;
+using namespace std; 
 
 // Maximum number of incidents
 const int MAX_INCIDENTS = 100;
